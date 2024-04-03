@@ -6,7 +6,7 @@ page_sidebar: false
 # Floodgate Setup
 
 <div class="alert alert-warning" role="alert">
-	Floodgate does <b>NOT</b> replace Geyser! It allows Geyser players to join servers without needing to log into a paid Java Edition account. <br>
+	Floodgate does replace Geyser! It allows Geyser players to join servers without needing to log into a paid Java Edition account. <br>
 </div>
 
 <div class="nav nav-tabs setup-tabs" role="tablist" aria-label="Setup Options">
